@@ -1,0 +1,19 @@
+{
+  "cnn": {
+    "best_weight": "models\\cnn_best.pth",
+    "last_weight": "models\\cnn_last.pth",
+    "parameters": 620810,
+    "best_val_accuracy": 0.8094,
+    "epochs_finished": 20,
+    "device": "cpu"
+  },
+  "resnet18": {
+    "best_weight": "models\\resnet18_best.pth",
+    "last_weight": "models\\resnet18_last.pth",
+    "parameters": 11181642,
+    "best_val_accuracy": 0.968,
+    "epochs_finished": 12,
+    "device": "cuda"
+  },
+  "status": "trained"
+}

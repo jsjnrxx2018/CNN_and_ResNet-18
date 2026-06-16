@@ -1,0 +1,23 @@
+{
+  "cnn": {
+    "accuracy": 0.8054,
+    "macro_precision": 0.8044025370235461,
+    "macro_recall": 0.8054,
+    "macro_f1": 0.8040263893416478,
+    "macro_auc": 0.9798805333333334,
+    "parameters": 620810,
+    "avg_inference_time_ms": 0.18138083999510854,
+    "test_samples": 10000
+  },
+  "resnet18": {
+    "accuracy": 0.9624,
+    "macro_precision": 0.9624194441957276,
+    "macro_recall": 0.9624,
+    "macro_f1": 0.9623941439004344,
+    "macro_auc": 0.9988802222222223,
+    "parameters": 11181642,
+    "avg_inference_time_ms": 1.1877842999994754,
+    "test_samples": 10000
+  },
+  "status": "evaluated"
+}

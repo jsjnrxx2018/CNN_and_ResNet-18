@@ -1,0 +1,23 @@
+{
+  "name": "CIFAR-10",
+  "source": "torchvision.datasets.CIFAR10",
+  "total_samples": 60000,
+  "train_samples": 50000,
+  "validation_samples": 5000,
+  "test_samples": 10000,
+  "image_size": "32x32",
+  "channels": 3,
+  "classes": [
+    {"index": 0, "english": "airplane", "chinese": "飞机"},
+    {"index": 1, "english": "automobile", "chinese": "汽车"},
+    {"index": 2, "english": "bird", "chinese": "鸟"},
+    {"index": 3, "english": "cat", "chinese": "猫"},
+    {"index": 4, "english": "deer", "chinese": "鹿"},
+    {"index": 5, "english": "dog", "chinese": "狗"},
+    {"index": 6, "english": "frog", "chinese": "青蛙"},
+    {"index": 7, "english": "horse", "chinese": "马"},
+    {"index": 8, "english": "ship", "chinese": "船"},
+    {"index": 9, "english": "truck", "chinese": "卡车"}
+  ]
+}
+
