@@ -14,6 +14,10 @@
 - 数据集：CIFAR-10
 - 操作系统：Windows
 
+---
+
+![1781634378463](image/README/1781634378463.png)
+
 ## 1. 项目功能
 
 - 自动下载并读取 CIFAR-10 数据集
@@ -440,4 +444,3 @@ python -m training.train --model resnet18 --pretrained --device cuda --batch-siz
 - `frontend/node_modules/`
 - `frontend/dist/`
 - `.venv/`
-
