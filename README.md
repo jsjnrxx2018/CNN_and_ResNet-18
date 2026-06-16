@@ -1,6 +1,6 @@
 # 基于 CNN 与 ResNet-18 的 CIFAR-10 图像分类对比系统
 
-![1781634378463](https://file+.vscode-resource.vscode-cdn.net/d%3A/%E4%BD%9C%E4%B8%9A/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/image/README/1781634378463.png)
+![1781635406334](image/README/1781635406334.png)
 
 本项目是机器学习课程项目中的“深度学习算法”模块，完成 CIFAR-10 图像分类任务的训练、评估、后端推理接口和前端可视化展示。
 
